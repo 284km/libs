@@ -7,5 +7,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "benchmark_driver"
 gem "charty"
 gem "csv"
+gem "red-parquet"
 gem "rspec"
 gem "test-unit"
